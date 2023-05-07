@@ -143,7 +143,6 @@ int main(void)
 	HAL_ADC_Start_DMA(&hadc1, (uint32_t *)ADC_BUF, 5);
 	LoRa_startReceiving(&myLoRa);
 
-	//TX_BUF[1] = 125;
 	
   /* USER CODE END 2 */
 
