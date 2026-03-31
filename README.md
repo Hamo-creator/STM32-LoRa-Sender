@@ -53,7 +53,7 @@ The system can:
 | 3.3V      | VCC             | Power       |
 | GND       | GND             | Ground      |
 
-The SX1278 communicates via **SPI interface**, which is supported by STM32 MCUs. ([How To Electronics][1])
+The SX1278 communicates via **SPI interface**, which is supported by STM32 MCUs.
 
 ---
 
@@ -153,6 +153,7 @@ cd STM32-LoRa-Sender
 
 ## 🔧 Future Improvements
 
+* SPI with DMA
 * Add encryption support
 * Implement LoRaWAN compatibility
 * Add sensor integration (BME280, DHT11, etc.)
