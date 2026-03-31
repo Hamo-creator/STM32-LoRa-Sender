@@ -20,7 +20,7 @@ It is primarily designed as a **sender node**, but also includes **receive funct
 
 This project demonstrates how to interface an **SX1278 LoRa module** with an STM32 microcontroller using **SPI communication**.
 
-LoRa enables **long-range, low-power wireless communication**, making it ideal for IoT and embedded systems. ([How To Electronics][1])
+LoRa enables **long-range, low-power wireless communication**, making it ideal for IoT and embedded systems. 
 
 The system can:
 
